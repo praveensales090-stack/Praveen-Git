@@ -2,4 +2,5 @@ Apple
 Banana
 Grape
 Orange
+pineapple
 print("fruits")
